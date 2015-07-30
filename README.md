@@ -1,7 +1,7 @@
 # Instruction
 There are codes for [Microblog TREC 2015].
 
-# How to build
+## How to build
 + Step.0 Install the packages pre-requested.
 ```
 	Java 1.8.0_40
