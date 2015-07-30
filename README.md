@@ -7,7 +7,7 @@ There are codes for [Microblog TREC 2015].
 	Java 1.8.0_40
 	Python 2.7.9
 	Weka 3.6.12
-	json-lib-2.1 - (commons-beanutils-1.7.0 ; commons-collections-3.1 , commons-lang-2.5 , commons-logging , ezmorph-1.0.3)
+	json-lib-2.1
 	numpy 1.6.2
 	scipy 0.15.1
 	nltk 3.0.2
