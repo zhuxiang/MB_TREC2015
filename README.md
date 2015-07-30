@@ -6,3 +6,5 @@ There are codes for Microblog TREC 2015.
 
 + Step.2 
 
+
+[wikipedia]:http://dumps.wikimedia.org/enwiki/
